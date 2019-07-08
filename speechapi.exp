@@ -1,0 +1,12 @@
+_SECloseSpeechChannel
+_SEContinueSpeech
+_SECopyPhonemesFromText
+_SECopySpeechProperty
+_SEOpenSpeechChannel
+_SEPauseSpeechAt
+_SESetSpeechProperty
+_SESpeakCFString
+_SEStopSpeechAt
+_SEUseSpeechDictionary
+_SEUseVoice
+_SEWillUnloadBundle
